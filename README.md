@@ -6,7 +6,7 @@ No Portfolio estara composto por minhas atividades e conquistas, organizadas por
    a) Neste projeto, apliquei minhas habilidades em desenvolvimento web para criar um site funcional e com design responsivo. O processo incluiu:
    b) Na elaboração do website usei o Canvas para criar a estrutura do conteúdo e a paleta de cores, e depois para aplicar o estilo e o layout.
    c) Design e Estrutura: Planejei a arquitetura e a interface do usuário (UI), garantindo uma navegação intuitiva.
-   d) Na implementação do website, este foi construído do zero, demonstrando minha capacidade de transformar uma ideia em uma página web para apresentacao pessoal.
+   d) Na implementação do website, este foi construído do zero, demonstrando minha capacidade de transformar uma ideia em uma página web para apresentacao pessoal. https://fabioabitante.my.canva.site/ 
 2. Elaboração de Currículo Profissional
    Como parte do meu desenvolvimento de carreira, preparei um currículo focado em destacar minhas competências e experiências. O processo envolveu:
    a) Conteúdo Estratégico: Priorizei as informações mais relevantes, como minhas habilidades técnicas, projetos e formação acadêmica.
