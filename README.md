@@ -11,7 +11,7 @@ No Portfolio estara composto por minhas atividades e conquistas, organizadas por
    Como parte do meu desenvolvimento de carreira, preparei um currículo focado em destacar minhas competências e experiências. O processo envolveu:
    a) Conteúdo Estratégico: Priorizei as informações mais relevantes, como minhas habilidades técnicas, projetos e formação acadêmica.
    b) Formato e Design: Utilizei um formato claro e profissional para facilitar a leitura e a compreensão por recrutadores.
-   c) Revisão: Garanti que o documento estivesse livre de erros, apresentando uma imagem profissional e atenciosa aos detalhes.
+   c) Revisão: Garanti que o documento estivesse livre de erros, apresentando uma imagem profissional e atenciosa aos detalhes. https://docs.google.com/document/d/1JrlwX5XgBZ9skJ4QAEeTGfKRrk0VnmKFhEOtxwGvcUA/edit?usp=sharing
 3. Configuração de Ambiente de Desenvolvimento (Git e GitHub)
    Para otimizar meu fluxo de trabalho em projetos de código, realizei a instalação e configuração de ferramentas essenciais de controle de versão.
    a) Instalação do Git: Instalei o Git no meu MacBook, utilizando o gerenciador de pacotes Homebrew, que garante um processo simples e eficiente.
