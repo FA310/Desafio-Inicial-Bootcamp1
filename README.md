@@ -16,7 +16,7 @@ No Portfolio estara composto por minhas atividades e conquistas, organizadas por
    Para otimizar meu fluxo de trabalho em projetos de código, realizei a instalação e configuração de ferramentas essenciais de controle de versão.
    a) Instalação do Git: Instalei o Git no meu MacBook, utilizando o gerenciador de pacotes Homebrew, que garante um processo simples e eficiente.
    b) Configuração do GitHub: Conectei minha máquina ao GitHub, permitindo o gerenciamento e o versionamento de projetos na nuvem. Configurei as credenciais e as chaves SSH para uma comunicação segura.
-   c) Controle de Versão: Agora, consigo rastrear todas as alterações de código, colaborar com outros desenvolvedores e manter um histórico completo dos meus projetos.
+   c) Controle de Versão: Agora, consigo rastrear todas as alterações de código, colaborar com outros desenvolvedores e manter um histórico completo dos meus projetos. https://fabioabitante.my.canva.site/ 
 4. Aplicação de Ferramentas e Metodologias
    Durante a disciplina "BootCamp1", apliquei na prática os conhecimentos adquiridos em diversas ferramentas e metodologias. As atividades incluíram:
    a) Uso do Git e GitHub: Utilizei comandos para sincronizar meu código com o repositório remoto, garantindo que as entregas fossem feitas de forma organizada.
